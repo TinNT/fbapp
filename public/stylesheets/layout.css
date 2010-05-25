@@ -1,0 +1,30 @@
+body {
+	margin:0px;
+}
+.main {
+	position:relative;
+	clear:left;
+	width:760px;
+	height:646px;
+	background-color:red;
+}
+.header {
+	position:relative;
+	clear:left;
+	width:760px;
+	height:80px;
+}
+.navigation {
+	position:relative;
+	clear:left;
+}
+.navigation .button{
+	position:relative;
+	float:left;
+	margin-right:10px;
+}
+.content {
+	position:relative;
+	clear:left;
+	width:760px;
+}
