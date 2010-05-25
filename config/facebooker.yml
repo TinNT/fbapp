@@ -9,15 +9,15 @@
 # This should only be necessary until the final version of the new profile is released.
 
 development:
-  api_key: 65781905c7a29052473dc5f34742910b 
-  secret_key: a370cfdbce656c74f24f021a13fc4031
-  canvas_page_name: myfirstapp
-  callback_url: http://www.mutti.jp:4007
+  api_key: d20d83a6da0ee2791615a33589394829 
+  secret_key: 36a703ad556f1ddf696181015ed4bb34
+  canvas_page_name: myomyapp
+  callback_url: http://mic.5uper.net:4007
   pretty_errors: true
   set_asset_host_to_callback_url: true
   tunnel:
-    public_host_username: mic 
-    public_host: http://www.mutti.jp 
+    public_host_username:  
+    public_host: 
     public_port: 4007
     local_port: 3000
     server_alive_interval: 0
