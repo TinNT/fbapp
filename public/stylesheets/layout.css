@@ -7,7 +7,7 @@ a { color:white}
 	position:relative;
 	clear:left;
 	width:758px;
-	height:646px;
+	height:894px;
 	background-color:black;
 	color:white;
 }
@@ -15,11 +15,19 @@ a { color:white}
 	position:relative;
 	clear:left;
 	width:758px;
-	height:80px;
+	height:94px;
 }
 .navigation {
-	position:relative;
-	clear:left;
+	position:absolute;
+	left:215px;
+}
+.appLogo {
+	position:absolute;
+	width:183px;
+	height:77px;
+	left:11px;
+	top:20px;
+	background-color:white;
 }
 .navigation .button{
 	position:relative;
