@@ -7,7 +7,8 @@ body {
 	clear:left;
 	width:758px;
 	height:646px;
-	background-color:red;
+	background-color:black;
+	text-color:white;
 }
 .header {
 	position:relative;
