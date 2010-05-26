@@ -4,14 +4,14 @@ body {
 .main {
 	position:relative;
 	clear:left;
-	width:760px;
+	width:759px;
 	height:646px;
 	background-color:red;
 }
 .header {
 	position:relative;
 	clear:left;
-	width:760px;
+	width:759px;
 	height:80px;
 }
 .navigation {
@@ -26,5 +26,10 @@ body {
 .content {
 	position:relative;
 	clear:left;
-	width:760px;
+	width:759px;
+}
+.footer {
+	position:relative;
+	clear:left;
+	width:759px;
 }
