@@ -5,14 +5,14 @@ body {
 .main {
 	position:relative;
 	clear:left;
-	width:756px;
-	height:646px;
+	width:758px;
+	height:846px;
 	background-color:red;
 }
 .header {
 	position:relative;
 	clear:left;
-	width:756px;
+	width:758px;
 	height:80px;
 }
 .navigation {
@@ -27,10 +27,10 @@ body {
 .content {
 	position:relative;
 	clear:left;
-	width:756px;
+	width:758px;
 }
 .footer {
 	position:relative;
 	clear:left;
-	width:756px;
+	width:758px;
 }
