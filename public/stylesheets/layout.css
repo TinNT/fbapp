@@ -2,6 +2,7 @@ body {
 	margin:0px;
 	pading:0px;
 }
+a { text-color:white}
 .main {
 	position:relative;
 	clear:left;
