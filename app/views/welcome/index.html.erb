@@ -1,5 +1,7 @@
 willkommen
 <a href="/teams/addteam">Start Team</a>
 <br />
-<%= request.env['REMOTE_ADDR'] %>
+<%# request.env['REMOTE_ADDR'] %>
 <%= @session.inspect %>
+<% info = @session.application.get_public_info(:app_id => 2413267546) %>
+<%= "Hallo: #{info['canvas_name']}" %>
